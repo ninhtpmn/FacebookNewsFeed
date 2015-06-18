@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FaceNewsPrT3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">654189561349586</string>
+    <string name="sha">SHA</string>
+    <string name="package_name">SHA</string>
+    <string name="null_text">NULL</string>
+</resources>
