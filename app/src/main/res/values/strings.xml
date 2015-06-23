@@ -7,4 +7,6 @@
     <string name="sha">SHA</string>
     <string name="package_name">SHA</string>
     <string name="null_text">NULL</string>
+    <string name="action_login">Log in</string>
+    <string name="action_logout">Log out</string>
 </resources>
